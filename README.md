@@ -1,4 +1,4 @@
-# ADC-Controlled Interactive Ping Pong Game
+# ADC-Controlled Interactive Ping Pong Game(Nu-LB-NUC140)
 
 ## Overview
 This project implements an interactive ping pong game using the **NUC140 microcontroller**. The game integrates hardware features like I2C communication, ADC input, PWM sound effects, and LCD display to create a real-time and engaging gameplay experience.
@@ -57,5 +57,5 @@ This project implements an interactive ping pong game using the **NUC140 microco
 - Enhance graphics with more detailed sprites.
 - Implement adjustable difficulty levels.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+## Note
+This project was part of the "Microprocessor" course taught by Professor Yi-Wen Wang in the Department of Computer Science and Information Engineering at Feng Chia University. The project received a perfect score.
