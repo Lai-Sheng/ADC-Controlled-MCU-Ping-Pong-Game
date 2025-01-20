@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements an interactive ping pong game using the **NUC140 microcontroller**. The game integrates hardware features like I2C communication, ADC input, PWM sound effects, and LCD display to create a real-time and engaging gameplay experience.
-
+You can view the demo on YouTube [here.](https://youtu.be/TjInDzXRgKc)
 ## Features
 - **I2C Communication**: Accesses a 24LC64 EEPROM to store game parameters such as random number seeds.
 - **ADC Input**: Reads player controls from variable resistors to move paddles dynamically.
